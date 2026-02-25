@@ -1,16 +1,12 @@
-## Hi there 👋
+# cou3tte | cyber
+SysAdmin/IT Manager by day, Pentester in progress by night.  
 
-<!--
-**cou3tte/cou3tte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Certifications
+🟡 CPTS — Hack The Box (in progress)  
+✅ eJPT — eLearnSecurity  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+📚 Studying for CPTS via HTB Academy  
+📋 Working on my pentest methodology  
+🧱 Auditing and Hardening Active Directory  
+📖 Developing cyber security culture  

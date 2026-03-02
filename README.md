@@ -1,5 +1,5 @@
 # cou3tte | cyber
-SysAdmin/IT Manager by day, Pentester in progress by night.  
+SysAdmin by day, Pentester by night.
 
 ## Certifications
 🟡 CPTS — Hack The Box (in progress)  
